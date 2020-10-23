@@ -1,0 +1,5 @@
+# index.js and index.html, and public/ are used for testing
+index.js
+*.html
+public/
+package-lock.json
