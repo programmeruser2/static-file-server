@@ -1,5 +1,4 @@
-require('./static-file-server')(8080);
-/* This is the same as 
+console.log(`require('./static-file-server')(8080) is the same as 
 const staticFileServer = require('./static-file-server');
 staticFileServer(8080);
 
@@ -9,5 +8,5 @@ Argument 1 specifies what port to run on (by default it checks for the function 
 
 Argument 2 specifies what directory the files should come from. So if you have some files in a directory public you can host them on the server with
 require('./static-file-server')(8080, 'public');
-This argument defaults to the current directory
-*/
+This argument defaults to the current directory`)
+require('./static-file-server')(8080);
