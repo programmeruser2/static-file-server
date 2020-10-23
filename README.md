@@ -6,5 +6,5 @@ A simple Node.js module to start a static file server in the current directory o
 ```
 git clone https://github.com/icositetrachoron-programmer/static-file-server
 cd static-file-server
-npm install && node example.js
+npm install && npm run-example
 ```
