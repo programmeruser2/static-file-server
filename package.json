@@ -12,7 +12,7 @@
   },
   "bin": {
     "static-file-server": "bin/static-file-server"
-  }
+  },
   "author": "",
   "license": "ISC"
 }
