@@ -8,7 +8,7 @@
   },
   "devDependencies": {},
   "scripts": {
-    "run-example": "node example.js"
+    "test": "node example.js"
   },
   "author": "",
   "license": "ISC"
